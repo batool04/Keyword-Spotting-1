@@ -16,7 +16,7 @@ Tools
 
 # Connecting to Edge Impulse
 
-here is link of video hpw to connect edge impulse with your device
+Here is link of video how to connect edge impulse with your device
 
 https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/arduino-nano-33-ble-sense#connecting-to-edge-impulse
 
@@ -37,14 +37,14 @@ Sketch-> Include Libraray -> Add Zip file
 Then, goto
 File-> Examples -> "Your_project_name -> nano_ble33_ense_microphone
 
-Do some chnages arduino code is given in above fies
+Do some changes arduino code is given in above fies
 
 Use screen or Serial monitor in Arduino IDE to set up a serial connection over USB.
 
 # Burn the Code
 
 Upload the code on your kit select your serial port
-After uploading open python code set the respective port no and run the task now you can see your project working!
+After uploading open python code set the respective port number and run the task now you can see your project working!
 
 
 
